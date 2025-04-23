@@ -1,4 +1,4 @@
-🧠 Mental Health Care Analysis 🩺📊
+🧠 MENTAL HEALTH CARE ANALYSIS 🩺📊
 A data-driven exploration of mental health care usage in the last 4 weeks, focused on demographics, time-based trends, and types of services. This project uses Python, Pandas, Seaborn, and Matplotlib for data cleaning, visualization, and statistical analysis.
 
 🔍 What’s Inside?
